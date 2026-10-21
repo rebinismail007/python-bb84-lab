@@ -1,6 +1,6 @@
 # BB84 Lab — Python / Qiskit / AerSimulator
 
-A runnable reconstruction and extension of the BB84 code shown in the supplied **Quantum Key Distribution (QKD)** study PDF, especially the screenshot on page 17. New AI-assisted reconstruction, October 2026; the original project folder was unavailable.
+A runnable reconstruction and extension of the BB84 code shown in the supplied **Quantum Key Distribution (QKD)** study PDF, especially the screenshot on page 17. New reconstruction, October 2026; the original project folder was unavailable.
 
 ## Recovered flow and additions
 
